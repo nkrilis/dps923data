@@ -1,0 +1,12 @@
+{
+  "student": "Nicholas Krilis",
+  "version": "1.0.0",
+  "timestamp": "2020-01-13T11:39:12+0000",
+  "count": 4,
+  "data": [
+    {"id": 1, "courseCode": "BTH645", "courseName": "Multimedia Elements for User Interfaces" },
+    {"id": 2, "courseCode": "BTE620", "courseName": "Law, Ethics and Social Responsibility" },
+    {"id": 3, "courseCode": "BTS830", "courseName": "Technology Planning and Aquisition" },
+    {"id": 4, "courseCode": "DPS923", "courseName": "Mobile App Development iOS" }
+  ]
+}
